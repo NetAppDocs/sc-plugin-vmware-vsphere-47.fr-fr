@@ -1828,7 +1828,6 @@
   <block id="3a3a5cd068731551120f43f37950768b" category="list-text">ONTAP Select</block>
   <block id="4ecac70efff8d20a57fcdc88eed604e5" category="paragraph">Il est recommandé, mais pas obligatoire, d'ajouter des licences SnapCenter Standard aux destinations secondaires. Si les licences SnapCenter Standard ne sont pas activées sur les systèmes secondaires, vous ne pouvez pas utiliser SnapCenter après avoir effectué une opération de basculement. Toutefois, une licence FlexClone pour un stockage secondaire est requise pour effectuer les opérations de montage et de connexion. Une licence SnapRestore est requise pour effectuer les opérations de restauration.</block>
   <block id="35b654fd14f12a33551c1993b5321fcb" category="summary">Le plug-in SnapCenter pour VMware vSphere (SCV) est une appliance virtuelle basée sur Linux. En tant que autonome, elle permet d'effectuer des opérations de sauvegarde et de restauration rapides, compactes et cohérentes avec les défaillances des machines virtuelles pour les machines virtuelles, les datastores et les VMDK. Il fonctionne aussi avec SnapCenter Server pour prendre en charge les opérations de sauvegarde et de restauration basées sur les applications dans les environnements VMware pour les plug-ins spécifiques aux applications SnapCenter.</block>
-  <block id="8c3d0c00ea667e3e0723e5cdc6473a09" category="doc">Documentation du plug-in SnapCenter pour VMware vSphere</block>
   <block id="75ea96b6d8c73a8d05259ac9f34d62ff" category="summary">Vous pouvez générer un bundle de prise en charge à partir du plug-in SnapCenter pour l'interface graphique de VMware vSphere.</block>
   <block id="ecfc133fda25b37d408886c1a66ff36a" category="doc">Générez un bundle de prise en charge à partir de l'interface graphique du plug-in SnapCenter pour VMware vSphere</block>
   <block id="27425ddfb17560020340393af9842680" category="paragraph">Pour vous connecter à l'interface utilisateur graphique de gestion SnapCenter Plug-in for VMware vSphere, vous devez connaître l'adresse IP et les identifiants de connexion.</block>
@@ -1930,7 +1929,6 @@
   <block id="a3d53cfe9124531cb5f9bbfefe704326" category="sidebar">Les workflows d'API REST pour modifier les planifications intégrés</block>
   <block id="f683581d3e75f05f9d9215f9b4696cef" category="sidebar">Mise à niveau</block>
   <block id="3da6944b1baaec4beb70694ac307fd1f" category="sidebar">Effectuez une mise à niveau vers un nouveau correctif de la même version</block>
-  <block id="3390e3575b3e341afa2b7172ff5b33a7" category="sidebar">Plug-in SnapCenter pour VMware vSphere</block>
   <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
   <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
   <block id="f99aa604031e5049799e73b5c3748a98" category="inline-link-macro"><block ref="f99aa604031e5049799e73b5c3748a98" category="inline-link-rx"></block></block>
@@ -1939,4 +1937,5 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="8a7a1ff56675136d7a0bec1d5e693833" category="sidebar">Documentation du plug-in SnapCenter pour VMware vSphere 4.7</block>
 </blocks>
